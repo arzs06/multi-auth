@@ -1,5 +1,6 @@
 <!-- admin.dashboard -->
 <h1>Selamat datang Admin!</h1>
+<h1>Selamat datang Admin!</h1>
 
  <form method="POST" action="{{ route('logout') }}">
                             @csrf
